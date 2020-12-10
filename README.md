@@ -12,4 +12,4 @@ The inside agile product development series gives you an overview of how we work
 
 📫 If you want to connect
 
-![Twitter Follow](https://img.shields.io/twitter/follow/kevcodez?style=social)
+ <a href="https://twitter.com/kevcodez"><img src="https://img.shields.io/twitter/follow/kevcodez?style=social" alt="Twitter Status"></a>
